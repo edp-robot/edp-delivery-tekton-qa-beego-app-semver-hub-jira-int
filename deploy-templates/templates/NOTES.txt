@@ -1,0 +1,1 @@
+1. Application beego-app-semver-hub-jira-int has been successfully deployed!!
